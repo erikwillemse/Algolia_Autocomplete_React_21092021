@@ -15,7 +15,7 @@ function App() {
   return (
     <div className="app-container">
       <Autocomplete
-        openOnFocus={true}
+        openOnFocus={false}
         placeholder={"zoek naar artikels"}
         detachedMediaQuery={"none"}
         panelPlacement={"full-width"}
