@@ -5,7 +5,6 @@ import { Autocomplete } from "./components/Autocomplete";
 import { ProductItem } from "./components/ProductItem";
 
 import "./styles.css";
-import "@algolia/autocomplete-theme-classic";
 
 const appId = "CSDBX0SZMQ";
 const apiKey = "4bfa904cde10c4036e72bb5ad6a698d4";
