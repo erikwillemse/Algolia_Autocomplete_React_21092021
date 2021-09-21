@@ -4,6 +4,7 @@ import algoliasearch from "algoliasearch";
 import { Autocomplete } from "./components/Autocomplete";
 import { ProductItem } from "./components/ProductItem";
 
+import "@algolia/autocomplete-theme-classic";
 import "./styles.css";
 
 const appId = "CSDBX0SZMQ";
